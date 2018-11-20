@@ -4,7 +4,7 @@
 #Author			:Nick Loudaros
 #Email          :nicoslud@gmail.com
 #Date           :20181120
-#Version        :0.5    
+#Version        :0.6    
 #Usage		 	:sh nano_autoinstaller.sh
 #Notes          :WARNING! This script supresses all error messages of yum.
 #==============================================================================
