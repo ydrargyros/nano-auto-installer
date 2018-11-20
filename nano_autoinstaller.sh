@@ -1,11 +1,12 @@
 #!/bin/bash -       
-#title          :mkscript.sh
-#description    :Autoinstalls nano v3.2 and adds linenumbers and line constantshow
-#author			:Nick Loudaros
-#date           :20181120
-#version        :0.5    
-#usage		 	:bash nano_autoinstaller.sh
-#notes          :WARNING! This script supresses all error messages of yum.
+#Title          :nano_autoinstaller.sh.sh
+#Description    :Autoinstalls nano v3.2 and adds linenumbers and line constantshow
+#Author			:Nick Loudaros
+#Email          :nicoslud@gmail.com
+#Date           :20181120
+#Version        :0.5    
+#Usage		 	:sh nano_autoinstaller.sh
+#Notes          :WARNING! This script supresses all error messages of yum.
 #==============================================================================
 
 #Cleanup (Yum & Folders)
