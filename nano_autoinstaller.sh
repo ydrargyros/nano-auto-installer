@@ -1,4 +1,3 @@
-#!/bin/bash -       
 #Title          :nano_autoinstaller.sh.sh
 #Description    :Autoinstalls nano v3.2 and adds linenumbers and line constantshow
 #Author			:Nick Loudaros
