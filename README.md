@@ -1,4 +1,4 @@
-# nano-auto-installer
+# nano-autoinstaller
 Just download, and run. Should work fine.
 
 Or use the following oneliner:
