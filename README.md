@@ -5,4 +5,4 @@ Just download, and run. Should work fine.
 cd /opt && git clone https://github.com/ydrargyros/nano-autoinstaller && chmod +x nano_autoinstaller.sh && ./nano_autoinstaller.sh
 
 ## If you don't have git installed:
-yum install git -y && git clone https://github.com/ydrargyros/nano-autoinstaller && cd /opt/nano-autoinstaller/ && chmod +x nano_autoinstaller.sh && ./nano_autoinstaller.sh
+cd /opt && yum install git -y && git clone https://github.com/ydrargyros/nano-autoinstaller && cd /opt/nano-autoinstaller/ && chmod +x nano_autoinstaller.sh && ./nano_autoinstaller.sh
