@@ -6,3 +6,4 @@ cd /opt && git clone https://github.com/ydrargyros/nano-autoinstaller && chmod +
 
 ## If you don't have git installed:
 cd /opt && yum install git -y && git clone https://github.com/ydrargyros/nano-autoinstaller && cd /opt/nano-autoinstaller/ && chmod +x nano_autoinstaller.sh && ./nano_autoinstaller.sh
+##
